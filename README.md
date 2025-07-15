@@ -12,6 +12,6 @@ Task 2: Student Grade Calculator
 Calculate total marks and average percentage.
 Assign grades and display results.
 
-Task 3: Currency Converter
+Task 4: Currency Converter
 Convert currencies using real-time exchange rates.
 Provide a user-friendly interface for currency conversion.
